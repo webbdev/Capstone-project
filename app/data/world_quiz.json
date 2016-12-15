@@ -1,0 +1,77 @@
+[
+  {
+    "question" : "How many Countries are there in the World?",
+    "options" : ["204", "195", "194", "189"],
+    "answer": 1
+  },
+  {
+    "question" : "What is the largest country in the World by population?",
+    "options"  : ["India", "Russia", "USA", "China"],
+    "answer"  : 3
+  },
+  {
+    "question" : "How many continents are there?",
+    "options"  : ["6", "7", "5", "8"],
+    "answer"  : 1
+  },
+  {
+    "question" : "What is the largest country in the World by area?",
+    "options"  : ["Canada", "Russia", "China", "USA"],
+    "answer"  : 1
+  },
+  {
+    "question" : "How many oceans are there?",
+    "options"  : ["5", "3", "2", "4"],
+    "answer"  : 3
+  },
+  {
+    "question" : "What is the world's longest river?",
+    "options"  : ["Yellow", "Nile", "Amazon", "Yenisei"],
+    "answer"  : 1
+  },
+  {
+    "question" : "What is the world's tallest mountain?",
+    "options"  : ["Makalu", "K2", "Everest", "Cho Oyu"],
+    "answer"  : 2
+  },
+  {
+    "question" : "The landmass of which of the following continents is the least?",
+    "options"  : ["Asia", "Europa", "Australia", "Africa"],
+    "answer"  : 2
+  },
+  {
+    "question" : "Iceland is covered in ice?",
+    "options"  : ["True", "False"],
+    "answer"  : 1
+  },
+  {
+    "question" : "What is the approximate size of Earth's equator?",
+    "options"  : ["40,000 km", "30,000 km", "20,000 km", "50,000 km"],
+    "answer"  : 0
+  },
+  {
+    "question" : "What is the world's largest desert?",
+    "options"  : ["Sahara", "Kalahari Desert", "Karakum Desert", "Arabian Desert"],
+    "answer"  : 0
+  },
+  {
+    "question" : "What is the largest Island in the World?",
+    "options"  : ["Sumatra", "Greenland", "Madagascar", "New Guinea"],
+    "answer"  : 1
+  },
+  {
+    "question" : "How many Countries in Europe?",
+    "options"  : ["28", "40", "44", "38"],
+    "answer"  : 2
+  },
+  {
+    "question" : "What is the largest Lake in the World?",
+    "options"  : ["Michigan", "Baikal", "Victoria", "Caspian Sea"],
+    "answer"  : 3
+  },
+  {
+    "question" : "What is the largest city in Latin America?",
+    "options"  : ["Mexico city", "Buenos Aires", "Rio-de-Janeiro", "Caracas"],
+    "answer"  : 0
+  }
+]

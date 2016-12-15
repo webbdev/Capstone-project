@@ -1,0 +1,345 @@
+{
+  "id" : "asia",
+  "name" : "Asia",
+  "total_countries" : 48,
+  "imageUrl": "/images/maps/asia.png",
+  "imageAlt": "Asia",
+  "capitals": [
+    {
+      "question" : "Afghanistan",
+      "options" : ["Lahore", "Jakarta", "Kabul", "Manama"],
+      "answer": 2,
+      "image_Url": "/images/flags/asia/afghanistan.png",
+      "image_alt": "Afghanistan"
+    },
+    {
+      "question" : "Armenia",
+      "options"  : ["Tbilisi", "Baghdad", "Amman", "Yerevan"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/asia/armenia.png",
+      "image_alt": "Armenia"
+    },
+    {
+      "question" : "Azerbaijan",
+      "options"  : ["Baku", "Tashkent", "Astana", "Taipei"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/asia/azerbaijan.png",
+      "image_alt": "Azerbaijan"
+    },
+    {
+      "question" : "Bahrain",
+      "options"  : ["Hyderabad", "Manama", "Nicosia", "Beirut"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/bahrain.png",
+      "image_alt": "Bahrain"
+    },
+    {
+      "question" : "Bangladesh",
+      "options"  : ["Dhaka", "Bishkek", "Bogra", "Jakarta"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/asia/bangladesh.png",
+      "image_alt": "Bangladesh"
+    },
+    {
+      "question" : "Bhutan",
+      "options"  : ["Tehran", "Thimphu", "Tbilisi", "Astana"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/bhutan.png",
+      "image_alt": "Bhutan"
+    },
+    {
+      "question" : "Brunei",
+      "options"  : ["Amman", "Malé", "Manila", "Bandar Seri Begawan"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/asia/brunei.png",
+      "image_alt": "Brunei"
+    },
+    {
+      "question" : "Cambodia",
+      "options"  : ["Kathmandu", "Phnom Penh", "Kuala", "Hanoi"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/cambodia.png",
+      "image_alt": "Cambodia"
+    },
+    {
+      "question" : "China",
+      "options"  : ["Shanghai", "Hong Kong", "Beijing", "Chennai"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/asia/china.png",
+      "image_alt": "China"
+    },
+    {
+      "question" : "Cyprus",
+      "options"  : ["Nicosia", "Ankara", "Larnaca", "Istanbul"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/asia/cyprus.png",
+      "image_alt": "Cyprus"
+    },
+    {
+      "question" : "Georgia",
+      "options"  : ["Yerevan", "Ashgabat", "Muscat", "Tbilisi"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/asia/georgia.png",
+      "image_alt": "Georgia"
+    },
+    {
+      "question" : "India",
+      "options"  : ["Bengaluru", "New Delhi", "Taipei", "Ahmedabad"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/india.png",
+      "image_alt": "India"
+    },
+    {
+      "question" : "Indonesia",
+      "options"  : ["Jakarta", "Malé", "Manila", "Seoul"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/asia/indonesia.png",
+      "image_alt": "Indonesia"
+    },
+    {
+      "question" : "Iran",
+      "options"  : ["Mashhad", "Jerusalem", "Tehran", "Doha"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/asia/iran.png",
+      "image_alt": "Iran"
+    },
+    {
+      "question" : "Iraq",
+      "options"  : ["Mosul", "Amman", "Baghdad", "Ashgabat"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/asia/iraq.png",
+      "image_alt": "Iraq"
+    },
+    {
+      "question" : "Israel",
+      "options"  : ["Haifa", "Jerusalem", "Riyadh", "Tel Aviv"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/israel.png",
+      "image_alt": "Israel"
+    },
+    {
+      "question" : "Japan",
+      "options"  : ["Hanoi", "Hong Kong", "Yokohama", "Tokyo"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/asia/japan.png",
+      "image_alt": "Japan"
+    },
+    {
+      "question" : "Jordan",
+      "options"  : ["Amman", "Islamabad", "Irbid", "Ankara"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/asia/jordan.png",
+      "image_alt": "Jordan"
+    },
+    {
+      "question" : "Kazakhstan",
+      "options"  : ["Almaty", "Bishkek", "Astana", "Dushanbe"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/asia/kazakhstan.png",
+      "image_alt": "Kazakhstan"
+    },
+    {
+      "question" : "Kuwait",
+      "options"  : ["Al Ahmadi", "Kuwait City", "Riyadh", "Tehran"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/kuwait.png",
+      "image_alt": "Kuwait"
+    },
+    {
+      "question" : "Kyrgyzstan",
+      "options"  : ["Bishkek", "Kathmandu", "Kabul", "Ashgabat"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/asia/kyrgyzstan.png",
+      "image_alt": "Kyrgyzstan"
+    },
+    {
+      "question" : "Laos",
+      "options"  : ["Muscat", "Vientiane", "Taipei", "Beijing"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/laos.png",
+      "image_alt": "Laos"
+    },
+    {
+      "question" : "Lebanon",
+      "options"  : ["Haifa", "Damascus", "Doha", "Beirut"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/asia/lebanon.png",
+      "image_alt": "Lebanon"
+    },
+    {
+      "question" : "Malaysia",
+      "options"  : ["Kuala Lumpur", "Taipei", "Ipoh", "Jakarta"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/asia/malaysia.png",
+      "image_alt": "Malaysia"
+    },
+    {
+      "question" : "Maldives",
+      "options"  : ["Bengaluru", "Kathmandu", "Malé", "Seoul"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/asia/maldives.png",
+      "image_alt": "Maldives"
+    },
+    {
+      "question" : "Mongolia",
+      "options"  : ["Wuhan", "Ulan Bator", "Darkhan", "Beijing"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/mongolia.png",
+      "image_alt": "Mongolia"
+    },
+    {
+      "question" : "Myanmar (Burma)",
+      "options"  : ["Yangon", "Manila", "Naypyidaw", "Nicosia"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/asia/myanmar.png",
+      "image_alt": "Myanmar"
+    },
+    {
+      "question" : "Nepal",
+      "options"  : ["Kathmandu", "Doha", "Astana", "Pokhara"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/asia/nepal.png",
+      "image_alt": "Nepal"
+    },
+    {
+      "question" : "North Korea",
+      "options"  : ["Seoul", "Hanoi", "Tokyo", "Pyongyang"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/asia/korea_north.png",
+      "image_alt": "North Korea"
+    },
+    {
+      "question" : "Oman",
+      "options"  : ["Amman", "Irbid", "Muscat", "Thimphu"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/asia/oman.png",
+      "image_alt": "Oman"
+    },
+    {
+      "question" : "Pakistan",
+      "options"  : ["Baghdad", "Islamabad", "Tehran", "Damascus"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/pakistan.png",
+      "image_alt": "Pakistan"
+    },
+    {
+      "question" : "Philippines",
+      "options"  : ["Malé", "Jakarta", "Dhaka", "Manila"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/asia/philippines.png",
+      "image_alt": "Philippines"
+    },
+    {
+      "question" : "Qatar",
+      "options"  : ["Kathmandu", "Doha", "Lahore", "Damascus"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/qatar.png",
+      "image_alt": "Qatar"
+    },
+    {
+      "question" : "Saudi Arabia",
+      "options"  : ["Riyadh", "Jeddah", "Jerusalem", "Baghdad"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/asia/saudi_arabia.png",
+      "image_alt": "Saudi Arabia"
+    },
+    {
+      "question" : "Singapore",
+      "options"  : ["Amman", "Jakarta", "Singapore", "Kabul"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/asia/singapore.png",
+      "image_alt": "Singapore"
+    },
+    {
+      "question" : "South Korea",
+      "options"  : ["Taipei", "Seoul", "Hong Kong", "Hanoi"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/korea_south.png",
+      "image_alt": "South Korea"
+    },
+    {
+      "question" : "Sri Lanka",
+      "options"  : ["Jakarta", "Colombo", "Sri Jayawardenapura-kotte", "Phnom Penh"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/asia/sri_lanka.png",
+      "image_alt": "Sri Lanka"
+    },
+    {
+      "question" : "Syria",
+      "options"  : ["Damascus", "Haifa", "Tehran", "Aleppo"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/asia/syria.png",
+      "image_alt": "Syria"
+    },
+    {
+      "question" : "Taiwan",
+      "options"  : ["Malé", "Tianjin", "Osaka", "Taipei"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/asia/taiwan.png",
+      "image_alt": "Taiwan"
+    },
+    {
+      "question" : "Tajikistan",
+      "options"  : ["Tbilisi", "Dushanbe", "Tashkent", "Ankara"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/tajikistan.png",
+      "image_alt": "Tajikistan"
+    },
+    {
+      "question" : "Thailand",
+      "options"  : ["Hong Kong", "Hanoi", "Bangkok", "Seoul"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/asia/thailand.png",
+      "image_alt": "Thailand"
+    },
+    {
+      "question" : "East Timor (Timor-Leste)",
+      "options"  : ["Dili", "Malé", "Same", "Jakarta"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/asia/east_timor.png",
+      "image_alt": "East Timor"
+    },
+      {
+      "question" : "Turkey",
+      "options"  : ["Istanbul", "Adana", "Ankara", "Nicosia"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/asia/turkey.png",
+      "image_alt": "Turkey"
+    },
+    {
+      "question" : "Turkmenistan",
+      "options"  : ["Islamabad", "Dushanbe", "Astana", "Ashgabat"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/asia/turkmenistan.png",
+      "image_alt": "Turkmenistan"
+    },
+    {
+      "question" : "United Arab Emirates (UAE)",
+      "options"  : ["Doha", "Abu Dhabi", "Dubai", "Amman"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/asia/united_arab_emirates.png",
+      "image_alt": "United Arab Emirates"
+    },
+    {
+      "question" : "Uzbekistan",
+      "options"  : ["Tashkent", "Astana", "Ashgabat", "Bishkek"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/asia/uzbekistan.png",
+      "image_alt": "Uzbekistan"
+    },
+    {
+      "question" : "Vietnam",
+      "options"  : ["Vientiane", "Kathmandu", "Hanoi", "Can Tho"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/asia/vietnam.png",
+      "image_alt": "Vietnam"
+    },
+    {
+      "question" : "Yemen",
+      "options"  : ["Jakarta", "Damascus", "Ta'izz", "Sana'a"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/asia/yemen.png",
+      "image_alt": "Yemen"
+    }
+  ]
+}

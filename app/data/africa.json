@@ -1,0 +1,387 @@
+{
+  "id" : "africa",
+  "name" : "Africa",
+  "total_countries" : 54,
+  "imageUrl": "/images/maps/africa.png",
+  "imageAlt": "Africa",
+  "capitals": [
+    {
+      "question" : "Algeria",
+      "options" : ["Lagos", "Cairo", "Oran", "Algiers"],
+      "answer": 3,
+      "image_Url": "/images/flags/africa/algeria.png",
+      "image_alt": "Algeria"
+    },
+    {
+      "question" : "Angola",
+      "options"  : ["Annaba", "Huambo", "Luanda", "Abidjan"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/angola.png",
+      "image_alt": "Angola"
+    },
+    {
+      "question" : "Benin",
+      "options"  : ["Cotonou", "Porto-Novo", "Accra", "Kano"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/benin.png",
+      "image_alt": "Benin"
+    },
+    {
+      "question" : "Botswana",
+      "options"  : ["Praia", "Gaborone", "Nairobi", "Serowe"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/botswana.png",
+      "image_alt": "Botswana"
+    },
+    {
+      "question" : "Burkina Faso",
+      "options"  : ["Ouagadougou", "Ibadan", "Dakar", "Dano"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/africa/burkina_faso.png",
+      "image_alt": "Burkina Faso"
+    },
+    {
+      "question" : "Burundi",
+      "options"  : ["Harare", "Bururi", "Lusaka", "Bujumbura"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/africa/burundi.png",
+      "image_alt": "Burundi"
+    },
+    {
+      "question" : "Cape Verde",
+      "options"  : ["Kampala", "Praia", "Mindelo", "Bamako"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/cape_verde.png",
+      "image_alt": "Cape Verde"
+    },
+    {
+      "question" : "Cameroon",
+      "options"  : ["Yaounde", "Kaduna", "Rabat", "Douala"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/africa/cameroon.png",
+      "image_alt": "Cameroon"
+    },
+    {
+      "question" : "Central African Republic",
+      "options"  : ["Bimbo", "Oran", "Bangui", "Asmara"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/central_african_republic.png",
+      "image_alt": "Central African Republic"
+    },
+    {
+      "question" : "Chad",
+      "options"  : ["Cotonou", "N'Djamena", "Fes", "Huambo"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/chad.png",
+      "image_alt": "Chad"
+    },
+    {
+      "question" : "Comoros",
+      "options"  : ["Moroni", "Monrovia", "Domoni", "Zaria"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/africa/comoros.png",
+      "image_alt": "Comoros"
+    },
+    {
+      "question" : "Democratic Republic of the Congo",
+      "options"  : ["Kumasi", "Kaduna", "Maputo", "Kinshasa"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/africa/democratic_republic_of_the_congo.png",
+      "image_alt": "Democratic Republic of the Congo"
+    },
+    {
+      "question" : "Republic of the Congo",
+      "options"  : ["Pointe-Noire", "Brazzaville", "Tripoli", "Dakar"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/republic_of_the_congo.png",
+      "image_alt": "Republic of the Congo"
+    },
+    {
+      "question" : "Cote d'Ivoire",
+      "options"  : ["Douala", "Abidjan", "Yamoussoukro", "Casablanca"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/cote_d_Ivoire.png",
+      "image_alt": "Cote d'Ivoire"
+    },
+    {
+      "question" : "Djibouti",
+      "options" : ["Durban", "Djibouti-city", "Alexandria", "Kano"],
+      "answer": 1,
+      "image_Url": "/images/flags/africa/djibouti.png",
+      "image_alt": "Djibouti"
+    },
+    {
+      "question" : "Egypt",
+      "options"  : ["Cairo", "Alexandria", "Lagos", "Giza"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/africa/egypt.png",
+      "image_alt": "Egypt"
+    },
+    {
+      "question" : "Equatorial Guinea",
+      "options"  : ["Kinshasa", "Accra", "Luanda", "Malabo"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/africa/equatorial_guinea.png",
+      "image_alt": "Equatorial Guinea"
+    },
+    {
+      "question" : "Eritrea",
+      "options"  : ["Ibadan", "Asmara", "Dakar", "Maputo"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/eritrea.png",
+      "image_alt": "Eritrea"
+    },
+    {
+      "question" : "Ethiopia",
+      "options"  : ["Dire Dawa", "Rabat", "Addis Ababa", "Oran"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/ethiopia.png",
+      "image_alt": "Ethiopia"
+    },
+    {
+      "question" : "Gabon",
+      "options"  : ["Hargeisa", "Oyem", "Asmara", "Libreville"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/africa/gabon.png",
+      "image_alt": "Gabon"
+    },
+    {
+      "question" : "Gambia",
+      "options"  : ["Banjul", "Freetown", "Oran", "Lagos"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/africa/gambia.png",
+      "image_alt": "Gambia"
+    },
+    {
+      "question" : "Ghana",
+      "options"  : ["Asmara", "Accra", "Rabat", "Lusaka"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/ghana.png",
+      "image_alt": "Ghana"
+    },
+    {
+      "question" : "Guinea",
+      "options"  : ["Camayenne", "Tripoli", "Conakry", "Luanda"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/guinea.png",
+      "image_alt": "Guinea"
+    },
+    {
+      "question" : "Guinea-Bissau",
+      "options"  : ["Pretoria", "Harare", "Bissau", "Douala"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/guinea_bissau.png",
+      "image_alt": "Guinea-Bissau"
+    },
+    {
+      "question" : "Kenya",
+      "options"  : ["Mombasa", "Libreville", "Cotonou", "Nairobi"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/africa/kenya.png",
+      "image_alt": "Kenya"
+    },
+    {
+      "question" : "Lesotho",
+      "options"  : ["Dakar", "Maseru", "Yaounde", "Ibadan"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/lesotho.png",
+      "image_alt": "Lesotho"
+    },
+    {
+      "question" : "Liberia",
+      "options"  : ["Monrovia", "Kakata", "Kampala", "Ogbomosho"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/africa/liberia.png",
+      "image_alt": "Liberia"
+    },
+    {
+      "question" : "Libya",
+      "options"  : ["Tangier", "Marrakesh", "Tripoli", "Rabat"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/libya.png",
+      "image_alt": "Libya"
+    },
+    {
+      "question" : "Madagascar",
+      "options"  : ["Accra", "Toamasina", "Kano", "Antananarivo"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/africa/madagascar.png",
+      "image_alt": "Madagascar"
+    },
+    {
+      "question" : "Malawi",
+      "options"  : ["Dakar", "Lilongwe", "Ibadan", "Pretoria"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/malawi.png",
+      "image_alt": "Malawi"
+    },
+    {
+      "question" : "Mali",
+      "options"  : ["Sikasso", "Lusaka", "Bamako", "Harare"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/mali.png",
+      "image_alt": "Mali"
+    },
+    {
+      "question" : "Mauritania",
+      "options"  : ["Nouakchott", "Conakry", "Rosso", "Kigali"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/africa/mauritania.png",
+      "image_alt": "Mauritania"
+    },
+    {
+      "question" : "Mauritius",
+      "options"  : ["Oran", "Curepipe", "Luanda", "Port Louis"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/africa/mauritius.png",
+      "image_alt": "Mauritius"
+    },
+    {
+      "question" : "Morocco",
+      "options"  : ["Casablanca", "Rabat", "Fes", "Marrakesh"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/morocco.png",
+      "image_alt": "Morocco"
+    },
+    {
+      "question" : "Mozambique",
+      "options"  : ["Oran", "Matola", "Maputo", "Monrovia"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/mozambique.png",
+      "image_alt": "Mozambique"
+    },
+    {
+      "question" : "Namibia",
+      "options"  : ["Asmara", "Windhoek", "Rundu", "Oran"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/namibia.png",
+      "image_alt": "Namibia"
+    },
+    {
+      "question" : "Niger",
+      "options"  : ["Zinder", "Ogbomosho", "Freetown", "Niamey"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/africa/niger.png",
+      "image_alt": "Niger"
+    },
+    {
+      "question" : "Nigeria",
+      "options"  : ["Abuja", "Lagos", "Kano", "Zaria"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/africa/nigeria.png",
+      "image_alt": "Nigeria"
+    },
+    {
+      "question" : "Rwanda",
+      "options"  : ["Butare", "N'Djamena", "Kigali", "Monrovia"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/rwanda.png",
+      "image_alt": "Rwanda"
+    },
+    {
+      "question" : "Sao Tome and Principe",
+      "options"  : ["Fes", "Sao Tome", "Cotonou", "Cairo"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/sao_tome_and_principe.png",
+      "image_alt": "Sao Tome and Principe"
+    },
+    {
+      "question" : "Senegal",
+      "options"  : ["Dakar", "Oran", "Pikine", "Asmara"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/africa/senegal.png",
+      "image_alt": "Senegal"
+    },
+    {
+      "question" : "Seychelles",
+      "options"  : ["Bel Ombre", "Luanda", "Rabat", "Victoria"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/africa/seychelles.png",
+      "image_alt": "Seychelles"
+    },
+    {
+      "question" : "Sierra Leone",
+      "options"  : ["Lagos", "Freetown", "Luanda", "Juba"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/sierra_leone.png",
+      "image_alt": "Sierra Leone"
+    },
+    {
+      "question" : "Somalia",
+      "options"  : ["Mogadishu", "Hargeisa", "Cairo", "Burco"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/africa/somalia.png",
+      "image_alt": "Somalia"
+    },
+    {
+      "question" : "South Africa",
+      "options"  : ["Durban", "Oran", "Cape Town", "Asmara"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/south_africa.png",
+      "image_alt": "South Africa"
+    },
+    {
+      "question" : "South Sudan",
+      "options"  : ["Abidjan", "Juba", "Kumasi", "Casablanca"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/south_sudan.png",
+      "image_alt": "South Sudan"
+    },
+    {
+      "question" : "Sudan",
+      "options"  : ["Tripoli", "Victoria", "Abuja", "Khartoum"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/africa/sudan.png",
+      "image_alt": "Sudan"
+    },
+    {
+      "question" : "Swaziland",
+      "options"  : ["Mbabane", "Yaounde", "Bamako", "Harare"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/africa/swaziland.png",
+      "image_alt": "Swaziland"
+    },
+    {
+      "question" : "Tanzania",
+      "options"  : ["Arusha", "Dar es Salaam", "Dodoma", "Kaduna"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/tanzania.png",
+      "image_alt": "Tanzania"
+    },
+    {
+      "question" : "Togo",
+      "options"  : ["Luanda", "Lomé", "Kara", "Accra"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/togo.png",
+      "image_alt": "Togo"
+    },
+    {
+      "question" : "Tunisia",
+      "options"  : ["Sfax", "Tripoli", "Pretoria", "Tunis"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/africa/tunisia.png",
+      "image_alt": "Tunisia"
+    },
+    {
+      "question" : "Uganda",
+      "options"  : ["Kampala", "Abuja", "Nansana", "Kira"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/africa/uganda.png",
+      "image_alt": "Uganda"
+    },
+    {
+      "question" : "Zambia",
+      "options"  : ["Conakry", "Kitwe", "Lusaka", "Rabat"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/africa/zambia.png",
+      "image_alt": "Zambia"
+    },
+    {
+      "question" : "Zimbabwe",
+      "options"  : ["Bulawayo", "Harare", "Bamako", "Cairo"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/africa/zimbabwe.png",
+      "image_alt": "Zimbabwe"
+    }
+  ]
+}

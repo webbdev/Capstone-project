@@ -1,0 +1,107 @@
+{
+  "id" : "oceania",
+  "name" : "Oceania",
+  "total_countries" : 14,
+  "imageUrl": "/images/maps/oceania.png",
+  "imageAlt": "Oceania",
+  "capitals": [
+    {
+      "question" : "Australia",
+      "options" : ["Sydney", "Canberra", "Brisbane", "Melbourne"],
+      "answer": 1,
+      "image_Url": "/images/flags/oceania/australia.png",
+      "image_alt": "Australia"
+    },
+    {
+      "question" : "Fiji",
+      "options"  : ["Suva", "Honiara", "Funafuti", "Palikir"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/oceania/fiji.png",
+      "image_alt": "Fiji"
+    },
+    {
+      "question" : "Kiribati",
+      "options"  : ["Lae", "Yaren", "Wollongong", "Tarawa Atoll"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/oceania/kiribati.png",
+      "image_alt": "Kiribati"
+    },
+    {
+      "question" : "Marshall Islands",
+      "options"  : ["Ebaye", "Majuro", "Apia", "Suva"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/oceania/marshall_islands.png",
+      "image_alt": "Marshall Islands"
+    },
+    {
+      "question" : "Micronesia",
+      "options"  : ["Funafuti", "Adelaide", "Palikir", "Perth"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/oceania/micronesia.png",
+      "image_alt": "Micronesia"
+    },
+    {
+      "question" : "Nauru",
+      "options"  : ["Honiara", "Apia", "Suva", "Yaren"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/oceania/nauru.png",
+      "image_alt": "Nauru"
+    },
+    {
+      "question" : "New Zealand",
+      "options"  : ["Wellington", "Auckland", "Canberra", "Hamilton"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/oceania/new_zealand.png",
+      "image_alt": "New Zealand"
+    },
+    {
+      "question" : "Palau",
+      "options"  : ["Yaren", "Majuro", "Ngerulmud", "Dili"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/oceania/palau.png",
+      "image_alt": "Palau"
+    },
+    {
+      "question" : "Papua New Guinea",
+      "options"  : ["Perth", "Port Moresby", "Lae", "Arawa"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/oceania/papua_new_guinea.png",
+      "image_alt": "Papua New Guinea"
+    },
+    {
+      "question" : "Samoa",
+      "options"  : ["Apia", "Palikir", "Yaren", "Funafuti"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/oceania/samoa.png",
+      "image_alt": "Samoa"
+    },
+    {
+      "question" : "Solomon Islands",
+      "options"  : ["Gizo", "Majuro", "Auki", "Honiara"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/oceania/solomon_islands.png",
+      "image_alt": "Solomon Islands"
+    },
+    {
+      "question" : "Tonga",
+      "options"  : ["Vaini", "Palikir", "Nuku'alofa", "Neiafu"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/oceania/tonga.png",
+      "image_alt": "Tonga"
+    },
+    {
+      "question" : "Tuvalu",
+      "options"  : ["Newcastle", "Funafuti", "Canberra", "Ngerulmud"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/oceania/tuvalu.png",
+      "image_alt": "Tuvalu"
+    },
+    {
+      "question" : "Vanuatu",
+      "options"  : ["Suva", "Sydney", "Port Vila", "Yaren"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/oceania/vanuatu.png",
+      "image_alt": "Vanuatu"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<div class="container-fluid" id="world-quiz">
+  <div class="box">
+  	<header>
+	  <div class="row nav">
+	  	<div class="col-xs-2"><a href="#!/" title="Home"><i class="fa fa-home" aria-hidden="true"></i></a></div>
+	  	<div class="col-xs-8"><p>Get Location</p></div>
+	  	<div class="col-xs-2"><a href="#!/quizzes-list" title="Back"><i class="fa fa-reply" aria-hidden="true"></i></a></div>
+	  </div>
+	</header>
+	<hr class="pipe">
+	
+	<div class="world-quiz-btns" id="location">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="continent-box">
+				  <p>Click the button to get your position</p>
+				  <button class="btn" ng-click="$ctrl.geoFindMe()">Show my location</button>
+				  <div id="out"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>

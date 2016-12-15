@@ -1,0 +1,163 @@
+{
+  "id" : "north-america",
+  "name" : "North America",
+  "total_countries" : 22,
+  "imageUrl": "/images/maps/north-america.png",
+  "imageAlt": "North America",
+  "capitals": [
+    {
+      "question" : "Antigua and Barbuda",
+      "options" : ["Surrey", "Saint Johns", "Tonala", "Belmopan"],
+      "answer": 1,
+      "image_Url": "/images/flags/north-america/antigua_and_barbuda.png",
+      "image_alt": "Antigua and Barbuda"
+    },
+    {
+      "question" : "Bahamas",
+      "options"  : ["Nassau", "Freeport", "Tuscon", "West End"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/north-america/bahamas.png",
+      "image_alt": "Bahamas"
+    },
+    {
+      "question" : "Barbados",
+      "options"  : ["Speightstown", "Bridgetown", "Holetown", "Fresno"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/north-america/barbados.png",
+      "image_alt": "Barbados"
+    },
+    {
+      "question" : "Belize",
+      "options"  : ["Belize City", "San Ignacio", "Caracas", "Belmopan"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/north-america/belize.png",
+      "image_alt": "Belize"
+    },
+    {
+      "question" : "Canada",
+      "options"  : ["Toronto", "Ottawa", "Montreal", "Houston"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/north-america/canada.png",
+      "image_alt": "Canada"
+    },
+    {
+      "question" : "Costa Rica",
+      "options"  : ["El Paso", "San Miguel", "San José", "San Diego"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/north-america/costa_rica.png",
+      "image_alt": "Costa Rica"
+    },
+    {
+      "question" : "Cuba",
+      "options"  : ["Havana", "Santiago de Cuba", "Bayamo", "Kingston"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/north-america/cuba.png",
+      "image_alt": "Cuba"
+    },
+    {
+      "question" : "Dominica",
+      "options"  : ["Cancun", "Roseau", "Marigot", "Berekua"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/north-america/dominica.png",
+      "image_alt": "Dominica"
+    },
+    {
+      "question" : "Dominican Republic",
+      "options"  : ["san José", "Santo Domingo", "Hermosillo", "Culiacan"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/north-america/dominican_republic.png",
+      "image_alt": "Dominican Republic"
+    },
+    {
+      "question" : "El Salvador",
+      "options"  : ["Apopa", "Santa Ana", "San Miguel", "San Salvador"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/north-america/el_salvador.png",
+      "image_alt": "El Salvador"
+    },
+    {
+      "question" : "Grenada",
+      "options"  : ["Saint George's", "Veracruz", "Tivoli", "Saint David's"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/north-america/grenada.png",
+      "image_alt": "Grenada"
+    },
+    {
+      "question" : "Guatemala",
+      "options"  : ["Mixco", "Vila Canales", "Guatemala City", "Vila Nueva"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/north-america/guatemala.png",
+      "image_alt": "Guatemala"
+    },
+    {
+      "question" : "Haiti",
+      "options"  : ["Merida", "Port-Margot", "Acapulco", "Port-au-Prince"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/north-america/haiti.png",
+      "image_alt": "Haiti"
+    },
+    {
+      "question" : "Honduras",
+      "options"  : ["Choloma", "Tegucigalpa", "San Pedro Sula", "Lima"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/north-america/honduras.png",
+      "image_alt": "Honduras"
+    },
+    {
+      "question" : "Jamaica",
+      "options"  : ["Kingston", "Montego Bay", "Acapulco", "Guadalupe"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/north-america/jamaica.png",
+      "image_alt": "Jamaica"
+    },
+    {
+      "question" : "Mexico",
+      "options"  : ["Puebla", "Leon", "San Diego", "Mexico City"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/north-america/mexico.png",
+      "image_alt": "Mexico"
+    },
+    {
+      "question" : "Nicaragua",
+      "options"  : ["Monterrey", "San Jose", "Managua", "Toluca"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/north-america/nicaragua.png",
+      "image_alt": "Nicaragua"
+    },
+    {
+      "question" : "Panama",
+      "options"  : ["Panama City", "San Miguelito", "Tocumen", "Puebla"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/north-america/panama.png",
+      "image_alt": "Panama"
+    },
+    {
+      "question" : "Saint Kitts and Nevis",
+      "options"  : ["San Antonio", "Basseterre", "Portland", "Reynosa"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/north-america/saint_kitts_and_nevis.png",
+      "image_alt": "Saint Kitts and Nevis"
+    },
+    {
+      "question" : "Saint Lucia",
+      "options"  : ["Tijuana", "Brampton", "Apodaca", "Castries"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/north-america/saint_lucia.png",
+      "image_alt": "Saint Lucia"
+    },
+    {
+      "question" : "Saint Vincent and the Grenadines",
+      "options"  : ["Kingstown", "Hamilton", "Durango", "Morelia"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/north-america/saint_vincent_and_the_grenadines.png",
+      "image_alt": "Saint Vincent and the Grenadines"
+    },
+    {
+      "question" : "United States of America (USA)",
+      "options"  : ["New York City", "Washington D.C.", "Toronto", "Chicago"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/north-america/united_states_of_america.png",
+      "image_alt": "United States of America"
+    }
+  ]
+}

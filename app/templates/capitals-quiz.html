@@ -1,0 +1,27 @@
+<div class="container-fluid" id="capitals-quiz">
+  <div class="box">
+  	<header>
+	  <div class="row nav">
+	  	<div class="col-xs-3"><a href="#!/" title="Home"><i class="fa fa-home" aria-hidden="true"></i></a></span></div>
+	  	<div class="col-xs-6"><p>Capitals Quiz</p></div>
+	  	<div class="col-xs-3"><a href="#!/quizzes-list" title="Back"><i class="fa fa-reply" aria-hidden="true"></i></a></div>
+	  </div>
+	</header>
+	<hr class="pipe">
+	
+	<div class="capitals-quiz-btns">
+	  <h3>Choose any continent to play quizzes on</h3>
+		<div class="row">
+			<div class="col-sm-6" ng-repeat="continent in $ctrl.continents">
+				<div class="continent-box">
+				  <h4>{{continent.name}}</h4>
+				  <span>Question: {{continent.total_countries}}</span><br>
+				  <a href="#!/quizzes-list/capitals/{{continent.id}}" class="btn" tabindex="0">Start</a>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+
+ 

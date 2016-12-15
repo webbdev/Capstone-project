@@ -1,0 +1,317 @@
+{
+  "id" : "europe",
+  "name" : "Europe",
+  "total_countries" : 44,
+  "imageUrl": "/images/maps/europe.png",
+  "imageAlt": "Europe",
+  "capitals": [
+    {
+      "question" : "Albania",
+      "options" : ["Sarajevo", "Sofia", "Tirana", "Zagreb"],
+      "answer": 2,
+      "image_Url": "/images/flags/europe/albania.png",
+      "image_alt": "Albania"
+    },
+    {
+      "question" : "Andorra",
+      "options"  : ["Prague", "Canillo", "Lille", "Andorra La Vella"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/europe/andorra.png",
+      "image_alt": "Andorra"
+    },
+    {
+      "question" : "Austria",
+      "options"  : ["Salzburg", "Vienna", "Bremen", "Berlin"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/austria.png",
+      "image_alt": "Austria"
+    },
+    {
+      "question" : "Belarus",
+      "options"  : ["Minsk", "Slutsk", "Kiev", "Vilnius"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/europe/belarus.png",
+      "image_alt": "Belarus"
+    },
+    {
+      "question" : "Belgium",
+      "options"  : ["Nice", "Bruges", "Madrid", "Brussels"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/europe/belgium.png",
+      "image_alt": "Belgium"
+    },
+    {
+      "question" : "Bosnia and Herzegovina",
+      "options"  : ["Banja Luka", "Sarajevo", "Bucharest", "Pristina"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/bosnia_and_herzegovina.png",
+      "image_alt": "Bosnia and Herzegovina"
+    },
+    {
+      "question" : "Bulgaria",
+      "options"  : ["Budapest", "Athens", "Sofia", "Varna"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/europe/bulgaria.png",
+      "image_alt": "Bulgaria"
+    },
+    {
+      "question" : "Croatia",
+      "options"  : ["Ljubljana", "Sarajevo", "Kiev", "Zagreb"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/europe/croatia.png",
+      "image_alt": "Croatia"
+    },
+    {
+      "question" : "Czech republic",
+      "options"  : ["Chisinau", "Prague", "Vienna", "Brno"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/czech_republic.png",
+      "image_alt": "Czech republic"
+    },
+    {
+      "question" : "Denmark",
+      "options"  : ["Oslo", "Copenhagen", "Aarhus", "Helsinki"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/denmark.png",
+      "image_alt": "Denmark"
+    },
+    {
+      "question" : "Estonia",
+      "options"  : ["Riga", "Narva", "Tallinn", "Tartu"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/europe/estonia.png",
+      "image_alt": "Estonia"
+    },
+    {
+      "question" : "Finland",
+      "options"  : ["Helsinki", "Stockholm", "Turku", "Copenhagen"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/europe/finland.png",
+      "image_alt": "Finland"
+    },
+    {
+      "question" : "France",
+      "options"  : ["Brussels", "Strasbourg", "Paris", "Nice"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/europe/france.png",
+      "image_alt": "France"
+    },
+    {
+      "question" : "Germany",
+      "options"  : ["Hamburg", "Berlin", "Munich", "Bonn"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/germany.png",
+      "image_alt": "Germany"
+    },
+    {
+      "question" : "Greece",
+      "options"  : ["Thessaloniki", "Lisbon", "Athens", "Nicosia"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/europe/greece.png",
+      "image_alt": "Greece"
+    },
+    {
+      "question" : "Hungary",
+      "options"  : ["Budapest", "Ljubljana", "Bucharest", "Pristina"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/europe/hungary.png",
+      "image_alt": "Hungary"
+    },
+    {
+      "question" : "Iceland",
+      "options"  : ["Copenhagen", "Kopavogur", "Helsinki", "Reykjavík"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/europe/iceland.png",
+      "image_alt": "Iceland"
+    },
+    {
+      "question" : "Ireland",
+      "options"  : ["Dublin", "Cork", "London", "Glasgow"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/europe/ireland.png",
+      "image_alt": "Ireland"
+    },
+    {
+      "question" : "Italy",
+      "options"  : ["Milan", "Rome", "Madrid", "Florence"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/italy.png",
+      "image_alt": "Italy"
+    },
+    {
+      "question" : "Latvia",
+      "options"  : ["Minsk", "Vilnius", "Tallinn", "Riga"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/europe/latvia.png",
+      "image_alt": "Latvia"
+    },
+    {
+      "question" : "Liechtenstein",
+      "options"  : ["Bern", "Vaduz", "Schaan", "Vienna"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/liechtenstein.png",
+      "image_alt": "Liechtenstein"
+    },
+    {
+      "question" : "Lithuania",
+      "options"  : ["Tallinn", "Riga", "Vilnius", "Warsaw"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/europe/lithuania.png",
+      "image_alt": "Lithuania"
+    },
+    {
+      "question" : "Luxembourg",
+      "options"  : ["Luxembourg", "Bonn", "Strassen", "Strasbourg"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/europe/luxembourg.png",
+      "image_alt": "Luxembourg"
+    },
+    {
+      "question" : "Macedonia",
+      "options"  : ["Sarajevo", "Skopje", "Ljubljana", "Pristina"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/macedonia.png",
+      "image_alt": "Macedonia"
+    },
+    {
+      "question" : "Malta",
+      "options"  : ["Vaduz", "Athens", "Birgu", "Valletta"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/europe/malta.png",
+      "image_alt": "Malta"
+    },
+    {
+      "question" : "Moldova",
+      "options"  : ["Kiev", "Chisinau", "Tiraspol", "Budapest"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/moldova.png",
+      "image_alt": "Moldova"
+    },
+    {
+      "question" : "Monaco",
+      "options"  : ["Monaco", "Nice", "Bern", "Monte Carlo"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/europe/monaco.png",
+      "image_alt": "Monaco"
+    },
+    {
+      "question" : "Montenegro",
+      "options"  : ["Ljubljana", "Sarajevo", "Podgorica", "Bucharest"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/europe/montenegro.png",
+      "image_alt": "Montenegro"
+    },
+    {
+      "question" : "Netherlands",
+      "options"  : ["Rotterdam", "Copenhagen", "Amsterdam", "Utrecht"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/europe/netherlands.png",
+      "image_alt": "Netherlands"
+    },
+    {
+      "question" : "Norway",
+      "options"  : ["Helsinki", "Stockholm", "Bergen", "Oslo"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/europe/norway.png",
+      "image_alt": "Norway"
+    },
+    {
+      "question" : "Poland",
+      "options"  : ["Warsaw", "Krakow", "Prague", "Gdansk"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/europe/poland.png",
+      "image_alt": "Poland"
+    },
+    {
+      "question" : "Portugal",
+      "options"  : ["Madrid", "Lisbon", "Porto", "Braga"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/portugal.png",
+      "image_alt": "Portugal"
+    },
+    {
+      "question" : "Romania",
+      "options"  : ["Warsaw", "Budapest", "Ljubljana", "Bucharest"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/europe/romania.png",
+      "image_alt": "Romania"
+    },
+    {
+      "question" : "Russia",
+      "options"  : ["Moscow", "Kiev", "Saint Petersburg", "Minsk"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/europe/russia.png",
+      "image_alt": "Russia"
+    },
+    {
+      "question" : "San Marino",
+      "options"  : ["Monte Carlo", "Vaduz", "San Marino", "Serravalle"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/europe/san_marino.png",
+      "image_alt": "San Marino"
+    },
+    {
+      "question" : "Serbia",
+      "options"  : ["Pristina", "Belgrade", "Sarajevo", "Budapest"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/serbia.png",
+      "image_alt": "Serbia"
+    },
+    {
+      "question" : "Slovakia",
+      "options"  : ["Bucharest", "Kosice", "Sofia", "Bratislava"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/europe/slovakia.png",
+      "image_alt": "Slovakia"
+    },
+    {
+      "question" : "Slovenia",
+      "options"  : ["Budapest", "Ljubljana", "Chisinau", "Kiev"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/slovenia.png",
+      "image_alt": "Slovenia"
+    },
+    {
+      "question" : "Spain",
+      "options"  : ["Madrid", "Lisbon", "Barcelona", "Valencia"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/europe/spain.png",
+      "image_alt": "Spain"
+    },
+    {
+      "question" : "Sweden",
+      "options"  : ["Gothenburg", "Oslo", "Malmo", "Stockholm"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/europe/sweden.png",
+      "image_alt": "Sweden"
+    },
+    {
+      "question" : "Switzerland",
+      "options"  : ["Vaduz", "Bern", "Zurich", "Geneva"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/switzerland.png",
+      "image_alt": "Switzerland"
+    },
+    {
+      "question" : "Ukraine",
+      "options"  : ["Kiev", "Moscow", "Odessa", "Minsk"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/europe/ukraine.png",
+      "image_alt": "Ukraine"
+    },
+    {
+      "question" : "United Kingdom (UK)",
+      "options"  : ["Edinburgh", "Dublin", "London", "Liverpool"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/europe/united_kingdom.png",
+      "image_alt": "United Kingdom"
+    },
+    {
+      "question" : "Vatican City",
+      "options"  : ["Rome", "Vatican City", "Rimini", "Turin"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/europe/vatican_city.png",
+      "image_alt": "Vatican City"
+    }
+  ]
+}

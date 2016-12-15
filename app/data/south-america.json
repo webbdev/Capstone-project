@@ -1,0 +1,101 @@
+{  
+  "id" : "south-america",
+  "name" : "South America",
+  "total_countries" : 13,
+  "imageUrl": "/images/maps/south-america.png",
+  "imageAlt": "South America",
+  "capitals": [
+    {
+      "question" : "Argentina",
+      "options" : ["Bogota", "Buenos Aires", "La Plata", "Mendoza"],
+      "answer": 1,
+      "image_Url": "/images/flags/south-america/argentina.png",
+      "image_alt": "Argentina"
+    },
+    {
+      "question" : "Bolivia",
+      "options"  : ["Santiago", "La Paz", "Paramaribo", "Sucre"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/south-america/bolivia.png",
+      "image_alt": "Bolivia"
+    },
+    {
+      "question" : "Brazil",
+      "options"  : ["Rio de Janeiro", "Brasilia", "Caracas", "Salvador"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/south-america/brazil.png",
+      "image_alt": "Brazil"
+    },
+    {
+      "question" : "Chile",
+      "options"  : ["Fortaleza", "Montevideo", "Santiago", "Quito"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/south-america/chile.png",
+      "image_alt": "Chile"
+    },
+    {
+      "question" : "Colombia",
+      "options"  : ["Bogota", "Salvador", "Medellin", "Cali"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/south-america/colombia.png",
+      "image_alt": "Colombia"
+    },
+    {
+      "question" : "Ecuador",
+      "options"  : ["Lima", "Guayaquil", "Quito", "Machala"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/south-america/ecuador.png",
+      "image_alt": "Ecuador"
+    },
+    {
+      "question" : "Guyana",
+      "options"  : ["Linden", "Georgetown", "Caracas", "Manaus"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/south-america/guyana.png",
+      "image_alt": "Guyana"
+    },
+    {
+      "question" : "Paraguay",
+      "options"  : ["Asunción", "San Lorenzo", "Paramaribo", "Cordoba"],
+      "answer"  : 0,
+      "image_Url": "/images/flags/south-america/paraguay.png",
+      "image_alt": "Paraguay"
+    },
+    {
+      "question" : "Peru",
+      "options"  : ["Guarulhos", "Montevideo", "Callao", "Lima"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/south-america/peru.png",
+      "image_alt": "Peru"
+    },
+    {
+      "question" : "Suriname",
+      "options"  : ["Cochabamba", "Paranam", "Paramaribo", "Georgetown"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/south-america/suriname.png",
+      "image_alt": "Suriname"
+    },
+    {
+      "question" : "Trinidad and Tobago",
+      "options"  : ["Contagem", "Quito", "Port of Spain", "Cucuta"],
+      "answer"  : 2,
+      "image_Url": "/images/flags/south-america/trinidad_and_tobago.png",
+      "image_alt": "Trinidad and Tobago"
+    },
+    {
+      "question" : "Uruguay",
+      "options"  : ["Salto", "Montevideo", "Asunción", "Porto Alegre"],
+      "answer"  : 1,
+      "image_Url": "/images/flags/south-america/uruguay.png",
+      "image_alt": "Uruguay"
+    },
+    {
+      "question" : "Venezuela",
+      "options"  : ["Lima", "Maracaibo", "Bogota", "Caracas"],
+      "answer"  : 3,
+      "image_Url": "/images/flags/south-america/venezuela.png",
+      "image_alt": "Venezuela"
+    }
+  ]
+
+}

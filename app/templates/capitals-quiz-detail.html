@@ -1,0 +1,77 @@
+<div class="container-fluid" id="quiz-detail">
+  <div class="box">
+	<header>
+	  <div class="row nav">
+	  	<div class="col-xs-2"><a href="#!/" title="Home"><i class="fa fa-home" aria-hidden="true"></i></a></div>
+	  	<div class="col-xs-8"><p>Capitals Quiz - <span style="font-size:21px;">{{$ctrl.continent.name}}</span></p></div>
+	  	<div class="col-xs-2"><a href="#!/quizzes-list/capitals" title="Back"><i class="fa fa-reply" aria-hidden="true"></i></a></div>
+	  </div>
+	</header>
+	<hr class="pipe">
+		
+	<div class="quiz-detail-btns">
+		<div class="quiz-box">
+		
+		<div class="intro" ng-show="!$ctrl.inProgress">
+			<div class="intro-head">
+				<div class="continent_pic">
+					<img ng-src="{{$ctrl.continent.imageUrl}}" alt="{{$ctrl.continent.imageAlt}}" height="200px;" />
+				</div>
+				<span>Total Questions: {{$ctrl.totalQuestions}}</span>
+			</div>
+			<span class="btn" id="startQuiz" ng-click="$ctrl.start()" tabindex="0">Begin</span>
+		</div>
+
+		<div class="quiz-area" ng-show="$ctrl.inProgress">
+			<div ng-show="!$ctrl.quizOver">
+		
+				<div class="score">
+					<span><strong>Score:</strong> {{$ctrl.score}} out of {{$ctrl.totalQuestions}}</span>
+				</div>
+
+				<div id="question">
+				<span>{{$ctrl.index}}.</span><img ng-src="{{$ctrl.image_Url}}" alt="{{$ctrl.image_alt}}" /><span>{{$ctrl.question}}</span></div>
+
+				<div class="question">
+				  <p  class="ans" 
+				  		ng-class="{
+				  			active: $ctrl.isActive(option)}"
+						ng-click="$ctrl.selectAnsw(option)"
+				  		ng-repeat="option in $ctrl.options">
+					<label>
+						<input type="radio" name="answer" value="{{option}}">
+						{{option}}
+					</label>
+				  </p>	
+				</div>
+
+				<span class="btn btn-submit" ng-click="$ctrl.checkAnswer()" ng-show="$ctrl.answerMode" tabindex="0">Submit</span>
+
+				<div ng-show="!$ctrl.answerMode">
+					<span class="btn btn-next" ng-click="$ctrl.nextQuestion()" tabindex="0">Next</span>
+					
+					<div class="alert alert-success" role="alert" ng-show="$ctrl.correctAns">
+						<span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span> <strong>Success!</strong> You are correct!
+					</div>
+		
+					<div class="alert alert-danger" role="alert" ng-show="!$ctrl.correctAns">
+						<span class="glyphicon glyphicon-remove-circle" aria-hidden="true"></span> <strong>Oops!</strong> That is not correct.
+					</div>
+				</div>
+			</div><!-- End !$ctrl.quizOver -->
+
+			<div ng-show="$ctrl.quizOver" class="results">
+				<h2>Results</h2>
+				<p>You scored <strong>{{$ctrl.percentage}}%</strong> by correctly answering <strong>{{$ctrl.score}}</strong> of the total <strong>{{$ctrl.totalQuestions}}</strong> questions.</p>
+				<div>
+					<span class="btn" ng-click="$ctrl.reset()" tabindex="0">Play again</span>
+				</div>
+			</div>
+		  
+		</div><!-- End .quiz-area -->
+
+		</div><!-- End .quiz-box -->
+	</div><!-- End .quiz-detail-btns -->
+
+  </div><!-- End .box -->
+</div>

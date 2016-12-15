@@ -1,0 +1,51 @@
+<div class="container-fluid" id="settings">
+  <div class="box">
+	<header>
+	  <div class="row nav">
+	  	<div class="col-xs-3"><a href="#!/" title="Home"><i class="fa fa-home" aria-hidden="true"></i></a></div>
+	  	<div class="col-xs-6"><p>Settings</p></div>
+	  	<div class="col-xs-3"></div>
+	  </div>
+	</header>
+	<hr class="pipe">
+	<div class="get-date">
+		<span ng-show="$ctrl.getDate">Today: {{ $ctrl.d | date }}</span>
+	</div>
+	
+	<div class="settings-btns">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="btn1"><i class="fa fa-volume-up" aria-hidden="true"></i>BG Music 1
+					<label class="switch">
+					  <input type="checkbox" ng-click="$ctrl.togglePlay1()">
+					  <div class="slider round"></div>
+					</label>
+				</div>
+			 </div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="btn1"><i class="fa fa-volume-up" aria-hidden="true"></i>BG Music 2
+					<label class="switch">
+					  <input type="checkbox" ng-click="$ctrl.togglePlay2()">
+					  <div class="slider round"></div>
+					</label>
+				</div>
+			 </div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="btn1"><i class="fa fa-calendar" aria-hidden="true"></i>Date
+					<label class="switch">
+					  <input type="checkbox" ng-click="$ctrl.getDate = !$ctrl.getDate">
+					  <div class="slider round"></div>
+					</label>
+				</div>
+			 </div>
+		</div>
+
+	</div>
+  </div>
+</div>

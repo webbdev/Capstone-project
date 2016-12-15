@@ -1,0 +1,32 @@
+[
+  {
+    "id" : "africa",
+    "name" : "Africa",
+    "total_countries" : 54
+  },
+  {
+    "id" : "asia",
+    "name" : "Asia",
+    "total_countries" : 48 
+  },
+  {
+    "id" : "europe",
+    "name" : "Europe",
+    "total_countries" : 44 
+  },
+  {
+    "id" : "oceania",
+    "name" : "Oceania",
+    "total_countries" : 14
+  },
+  {
+    "id" : "north-america",
+    "name" : "North America",
+    "total_countries" : 22 
+  },
+  {
+    "id" : "south-america",
+    "name" : "South America",
+    "total_countries" : 13
+  }
+]
